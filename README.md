@@ -3,6 +3,15 @@
 
 <img src="https://github.com/victorgarcia10/tmdb_movies/blob/master/git_hub_images/1%20-%20login.png" width="330" height="560">
 
+<p float="left">
+ <img src="https://github.com/victorgarcia10/tmdb_movies/blob/master/git_hub_images/1%20-%20login.png" width="330" height="560"/>
+ <img src="https://github.com/victorgarcia10/tmdb_movies/blob/master/git_hub_images/4%20-%20home.png" width="330" height="560"/>
+ <img src="https://github.com/victorgarcia10/tmdb_movies/blob/master/git_hub_images/5%20-%20detail.png" width="330" height="560"/>
+ <img src="https://github.com/victorgarcia10/tmdb_movies/blob/master/git_hub_images/7%20-%20search.png" width="330" height="560"/>
+
+</p>
+
+
 
 Este foi um projeto pessoal no qual coloquei em prática alguns conteúdos que venho estudando e aprimorando.
 
