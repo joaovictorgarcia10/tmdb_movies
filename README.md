@@ -11,7 +11,7 @@ Ao selecionar um filme, a aplicação encanminha o usuário para uma tela com os
 Obs: Logo estarei implementando o login e a lista de filmes favoritos.
 
 
-## PARA RODAR A APLICAÇÃO BASTA SUBSTITUIR A MINHA CHAVE DA API PELA SUA.
+#### PARA RODAR A APLICAÇÃO BASTA SUBSTITUIR A MINHA CHAVE DA API PELA SUA.
 
 
 ## Packages Utilizados:
