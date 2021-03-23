@@ -1,7 +1,7 @@
 # TMDB MOVIES
 
 
-<img src="https://github.com/victorgarcia10/tmdb_movies/blob/master/git_hub_images/1%20-%20login.png" width="320" height="550">
+<img src="https://github.com/victorgarcia10/tmdb_movies/blob/master/git_hub_images/1%20-%20login.png" width="330" height="560">
 
 
 Este foi um projeto pessoal no qual coloquei em prática alguns conteúdos que venho estudando e aprimorando.
